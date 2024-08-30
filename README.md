@@ -1,4 +1,4 @@
-Project Documentation: Ensuring Data Integrity Between Hotel Invoice and Service Provider Records 📊
+Project: Ensuring Data Integrity Between Hotel Invoice and Service Provider Records 📊
 ----------------------------------------------------------------------------------------------------
 
 ### Introduction
